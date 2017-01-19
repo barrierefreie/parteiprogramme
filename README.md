@@ -12,11 +12,11 @@ Ziel ist es, die Wahl-Programme aller der zur Bundestagswahl 2017 zugelassenen P
 - `pdf/` - generierte PDF-Dateien
 - `epub/` - generierte EPUB-Dateien
 
-Die Ausgaben werden mittels `Makefile` generiert:
+Falls die Ausgabe-Dateien neu generiert werden sollen, bitte die Befehle der `Makefile` nutzen:
 
 - `make pdf`
 - `make epub`
-- `make clean` - Löschen der generierten Dateien
+- `make clean` - Löschen der generierten Verzeichnisse
 
 
 ## Mitmachen
