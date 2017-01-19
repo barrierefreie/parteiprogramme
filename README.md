@@ -27,7 +27,10 @@ Für Korrekturen bestehender Texte bitte einfach Pull-Requests senden. Wer ins T
 
 Vor dem Hinzufügen eines neuen Programms bitte bei der Partei das Urheberrecht klären. Die Texte müssen (unter Nennung der Partei als Autor) frei kopierbar sein.
 
+Erledigte Anfragen bitte mit Kopie der Partei-Antwort in `urheberrecht/[parteiname]/README.md` ablegen.
+
 #### Bereits angefragt
 
 #### Bereits bestätigt
 
+- Piratenpartei
