@@ -4,13 +4,13 @@ Hier werden Wahl- und Parteiprogramme im [Markdown](https://de.wikipedia.org/wik
 
 Auch eine weitere Verarbeitung wie zB statistische Auswertung der Texte ist auf Basis von Markdown leichter möglich. Zudem wird ein Anreiz für die Parteien geschaffen, die Texte klar unter einer frei kopierbare Lizenz zu veröffentlichen, da nur solche hier auf Github publiziert werden dürfen.
 
-Ziel ist es, die Wahl-Programme aller der zur Bundestagswahl 2017 zugelassenen Parteien hier zu haben, insbesondere aber aller Parteien, die wahrscheinlich die 5%-Hürde überspringen werden.
+Ziel ist es, die Wahl-Programme aller zur Bundestagswahl 2017 zugelassenen Parteien hier zu haben, insbesondere aber aller Parteien, die wahrscheinlich die 5%-Hürde überspringen werden.
 
 ## Benutzung
 
-- `md/` - die Quelldateien im Markdown-Format
-- `pdf/` - generierte PDF-Dateien
-- `epub/` - generierte EPUB-Dateien
+- [`md/`](md/) - die Quelldateien im Markdown-Format
+- [`pd/`](pdf/) - generierte PDF-Dateien
+- [`epub/`](epub/) - generierte EPUB-Dateien
 
 Falls die Ausgabe-Dateien neu generiert werden sollen, bitte die Befehle der `Makefile` nutzen:
 
