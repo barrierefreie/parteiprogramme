@@ -2,7 +2,7 @@
 
 Hier werden Wahl- und Parteiprogramme im [Markdown](https://de.wikipedia.org/wiki/Markdown)-Format gesammelt. Aus diesem Format können mittels [Pandoc](https://de.wikipedia.org/wiki/Pandoc) leicht alle anderen Formate (wie zB EPUB und PDF in verschiedenen Schriftgrößen) erstellt werden, so dass sie auf allen Medien und für alle Interessierten technisch leicht lesbar sind.
 
-Auch eine weitere Verarbeitung wie zB statistische Auswertung der Texte ist auf Basis von Markdown leichter möglich. Zudem wird ein Anreiz für die Parteien geschaffen, die Texte klar unter einer frei kopierbare Lizenz zu veröffentlichen, da nur solche hier auf Github publiziert werden dürfen.
+Auch eine weitere Verarbeitung wie zB statistische Auswertung der Texte ist auf Basis von Markdown leichter möglich. Zudem wird ein Anreiz für die Parteien geschaffen, die Texte klar unter einer frei kopierbaren Lizenz zu veröffentlichen, da nur solche hier auf Github publiziert werden dürfen.
 
 Ziel ist es, die Wahl-Programme aller zur Bundestagswahl 2017 zugelassenen Parteien hier zu haben, insbesondere aber aller Parteien, die wahrscheinlich die 5%-Hürde überspringen werden.
 
