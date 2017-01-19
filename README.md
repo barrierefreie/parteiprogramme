@@ -9,7 +9,7 @@ Ziel ist es, die Wahl-Programme aller zur Bundestagswahl 2017 zugelassenen Parte
 ## Benutzung
 
 - [`md/`](md/) - die Quelldateien im Markdown-Format
-- [`pd/`](pdf/) - generierte PDF-Dateien
+- [`pdf/`](pdf/) - generierte PDF-Dateien
 - [`epub/`](epub/) - generierte EPUB-Dateien
 
 Falls die Ausgabe-Dateien neu generiert werden sollen, bitte die Befehle der `Makefile` nutzen:
